@@ -1,0 +1,90 @@
+body {
+      text-align: left;
+      background: url("http://i.imgur.com/HEsxVkM.jpg");
+      background-size: fill;
+      background-position: center;
+      color: #2E2E2E  ;
+      font-family: Times New Roman;
+    }
+    p {
+            border: 1px solid #4D4D4D;
+            padding: 10px;
+            margin-bottom: 30px;
+            display: inline-block;
+      } 
+
+    p {
+      font-size: 30px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 30px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: black;
+    }
+    h1 {
+  font-size: 30px;
+  color: #2E2E2E;
+}
+a { 
+    color: #2E2E2E;
+}
+   h1 {
+    font-size: 50px;
+   }
+img {
+  margin: 10px 0px 0px;
+   border: 10px solid #4D4D4D;
+    border-radius: 30px;
+  }
+  li {
+    display: inline-block;
+    list-style-type: none;
+  }
+    article {
+  width: 500px;
+  padding: 20px;
+   }
+
+header {
+  text-align: center;
+}
+ul {
+  padding: 10px;
+}
+
+P { 
+  text-align: left 
+}
+
+a {
+    display: inline;
+    width: 75px;
+}
+
+#sidebar {
+    float:left;
+    margin-right: 5px;
+}
+section {
+    float: right;
+    width: 350px;
+    border: 1px solid #4D4D4D;
+}
+h1 {
+    text-align: left;
+}
+footer {
+    clear: both;
+    padding-top: 10px;
+}
+
+li{
+        border: 1px solid #4D4D4D;
+        padding: 10px;
+        margin-bottom: 30px;
+        display: inline-block;
+  } 
